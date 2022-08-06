@@ -1,3 +1,3 @@
 # Demo of readme
 
-Im giving a small course on how to use git and github.
+I'm giving a small course on how to use git and github.
